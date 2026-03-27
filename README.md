@@ -4,7 +4,7 @@ Repositório feito para as atividades de UX do Quarto semestre do Cursos de DSM 
 # Portfólio – Experiência do Usuário – 2026/1
 ## Aluno
 - Nome: Danilo ALves
-- LinkedIn: 
+- LinkedIn: https://www.linkedin.com/in/danilo-braz-83a466312/
 - GitHub: https://github.com/Danilo-Fatec
 ---
 ## Estrutura
