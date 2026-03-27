@@ -1,4 +1,4 @@
-Repositório feito para as atividades de UX do Quarto semestre do Curos de DSM da Fatec de Jacareí.
+Repositório feito para as atividades de UX do Quarto semestre do Cursos de DSM da Fatec de Jacareí.
 
 
 # Portfólio – Experiência do Usuário – 2026/1
